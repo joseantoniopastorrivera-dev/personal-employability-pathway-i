@@ -8,7 +8,7 @@ Labor legislation, occupational risk prevention (PRL), career planning, entrepre
 
 El repositorio está organizado por cursos académicos y sus respectivas evaluaciones:
 
-### 📁 1er-Curso/ (IPE I)
+### 📁 1er-curso/ (IPE I)
 * **`1a-Evaluacion/`**: Introducción al entorno laboral, Prevención de Riesgos Laborales (PRL), seguridad y salud en el trabajo.
 * **`2a-Evaluacion/`**: Relaciones laborales, contratos de trabajo, modalidades contractuales y gestión de nóminas y seguridad social.
 * **`3a-Evaluacion/`**: Orientación profesional, búsqueda activa de empleo, currículum vítae, cartas de presentación y marca personal.
